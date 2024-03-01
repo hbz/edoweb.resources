@@ -21898,7 +21898,7 @@
   "type" : "STORE",
   "multilangLabel" : { }
 }, {
-  "uri" : "https://mit-license.org",
+  "uri" : "https://opensource.org/license/MIT",
   "comment" : "",
   "label" : "MIT License",
   "icon" : "",
