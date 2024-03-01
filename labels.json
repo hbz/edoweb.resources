@@ -21897,4 +21897,14 @@
   "weight" : "",
   "type" : "STORE",
   "multilangLabel" : { }
+}, {
+  "uri" : "https://mit-license.org",
+  "comment" : "",
+  "label" : "MIT License",
+  "icon" : "",
+  "name" : "",
+  "container" : "",
+  "weight" : "",
+  "type" : "STORE",
+  "multilangLabel" : { }
 } ]
